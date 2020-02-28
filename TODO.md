@@ -5,7 +5,7 @@
 5. Bonus: faire un graphique JS affichant le taux d'arrival/departure par terminal, Faire un graphique JS affichant le taux de passagerss par type de vol (Domestic/International) (ça reste du bonus, vous n'aurez pas de préjudice en ne réalisant pas le bonus)
 
 
-Si vous pensez que cela prendra trop de tempsk, n'hésitez pas à nous le faire savoir et on vous proposera un exercice plus simple
+Si vous pensez que cela prendra trop de temps, n'hésitez pas à nous le faire savoir et on vous proposera un exercice plus simple
 
 
 Bon courage! :)
