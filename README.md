@@ -45,6 +45,21 @@ To launch the backend, make sure to follow these steps:
  
     http://localhost:3000/
     
+    
+# Bonus
+
+  I have uploaded AFTER THE DEADLINE, my work on the graphs, you can find them by cd into /graphs or /graphs2
+  and run 
+  
+    npm start
+    
+ You should have the following graphs ! (use following to see the results on my side)
+  https://imgur.com/a/B4ZthCp
+  
+ 
+ 
+ 
+    
 
 
 
